@@ -30,7 +30,9 @@ O Ecoleta é um projeto criado para gerenciar o processo de coleta de lixo nas c
 -   [Express](https://expressjs.com/pt-br/)
 -   [Nodemon](https://nodemon.io/)
 -   [SQLite](https://www.sqlite.org/index.html)
+
 ----------
+
 ## 🔖  Layout
 
 Para acessar o layout use [Figma](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/?viewer=1&node-id=).
